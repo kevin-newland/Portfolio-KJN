@@ -7,7 +7,7 @@ contents:
       - Collaborated on planning and design of a civic engagement app connecting executive orders to congressional statements using Federal Register and ProPublica APIs.
       - Wrote backend tests, front end tests ,assisted with API integration, and implemented robust error handling in a Rails backend to ensure reliable data flow and user experience.
       - The tools that were used are Slack, Figma, Jira, DrawSQL, and Github.
-    image: "![RepRadar screenshot](/assets/img/RepRadar.png)"
+    image: "![RepRadar screenshot](/assets/img/repradar.png)"
   - title: "Viewing Party API [BE Repo](https://github.com/kevin-newland/viewing-party-api-KJN) (Solo)"
     description: 
       - Built and deployed a RESTful Rails API that allows users to create movie viewing parties, invite friends, and track hosting responsibilities.
