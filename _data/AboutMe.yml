@@ -1,0 +1,13 @@
+subject: About Me
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: My Story
+    description: "
+      -   Motivated junior software developer with experience in object-oriented programming, test-driven development, and database management. Skilled in building scalable applications, collaborating with teams, and writing clean, maintainable code. Eager to contribute to a dynamic team and continue growing in the tech industry.
+
+      -   What initially drew me to software development was my love for problem-solving, the endless opportunities for growth, and the wide range of paths available in the field. My passion for video games sparked a deeper curiosity about the technology behind interactive experiences, which eventually led me to explore software development. What started as simple curiosity quickly grew into a genuine interest in building software, and that interest continues to drive me to learn, improve, and take on new challenges in the field.
+    "
+  - title: My Resume
+    description: "
+    [View my Resume](https://docs.google.com/document/d/1FQepn_olxOOn2O4fCnRmBciOrWPU3iIpOpkIE0LlCk4/edit?tab=t.0)
+    "

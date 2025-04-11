@@ -1,18 +1,16 @@
 title: My Portfolio Site
-profile_img: /assets/img/logo.png
-icon_img: /assets/img/logo.png
+profile_img: /assets/img/profile.png
+icon_img: /assets/img/profile.png
 
-name: "Your Name"
-job: "Your Job Title"
+name: "Kevin Newland"
+job: "Software Developer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+phone_number: 763-227-8791
+address: Minneapolis, MN
+email: kevin.newland@yahoo.com
+linkedin_username: kevin-newland
+github_username: kevin-newland
+
 
 theme: jekyll-professional-resume
 

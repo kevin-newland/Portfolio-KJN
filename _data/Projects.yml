@@ -1,21 +1,16 @@
 subject: Projects
-listing-order: 3
+listing-order: 2
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "RepRadar [BE Repo](https://github.com/RedRadar-WT-Team/backend) [FE Repo](https://github.com/RedRadar-WT-Team/frontend) (Group of 6)"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Collaborated on planning and design of a civic engagement app connecting executive orders to congressional statements using Federal Register and ProPublica APIs.
+      - Wrote backend tests, front end tests ,assisted with API integration, and implemented robust error handling in a Rails backend to ensure reliable data flow and user experience.
+      - Tools that were used are Slack, Figma, Jira, DrawSQL, Github.
+    image: "![RepRadar screenshot](/assets/img/RepRadar.png)"
+  - title: "Viewing Party API [BE Repo](https://github.com/kevin-newland/viewing-party-api-KJN) (Solo)"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Built and deployed a RESTful Rails API that allows users to create movie viewing parties, invite friends, and track hosting responsibilities.
+      - Integrated with The Movie Database (TMDB) API using authentication to fetch and display movie data; implemented error handling and tested external API consumption using mocks/stubs.
+      - Designed a relational database with users, parties, and invitations to support a many-to-many structure and user authorization features.
+      - Tools that were used are Slack, DrawSQL, Github.
