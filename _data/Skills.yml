@@ -4,13 +4,13 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming Languages
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](/assets/img/ruby.png)
-      ![devicon](/assets/img/icons8-html-48.png)
-      ![devicon](/assets/img/icons8-css-48.png)
+     ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+     ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg)
+     ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+     ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
     "
   - title: Frameworks
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](/assets/img/rails.png)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg)
     "
