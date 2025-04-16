@@ -14,3 +14,4 @@ contents:
       - Integrated with The Movie Database (TMDB) API using authentication to fetch and display movie data; implemented error handling and tested external API consumption using mocks/stubs.
       - Designed a relational database with users, parties, and invitations to support a many-to-many structure and user authorization features.
       - The tools that were used are Slack, DrawSQL, Github.
+    image: "![RepRadar screenshot](assets/img/Screenshot 2025-04-16 at 12.48.42 PM.png)"
